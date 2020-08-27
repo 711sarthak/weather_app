@@ -12,9 +12,12 @@
 
 **API Key**
 
-Open a file called `api_keys.dart` in `lib/src/api/`
+GET 'YOUR_API_KEY' from openweathermap, Get it here: https://openweathermap.org/)
 
-Edit ('YOUR_API_KEY' with API key you generated from openweathermap, Get it here: https://openweathermap.org/):
+
+Create a file called `api_keys.dart` in `lib/src/api/`
+
+Add this in `api_keys.dart`:
   ```
   class ApiKey {
     static const openWeatherMap = "YOUR_API_KEY";
