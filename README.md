@@ -1,6 +1,8 @@
 
 # Weather App (Flutter)
 
+![ScreenShot](https://github.com/711sarthak/weather_app/tree/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-08-27%20at%2014.45.13.png)
+
 ## Getting Started
 
 ### Prerequisites
